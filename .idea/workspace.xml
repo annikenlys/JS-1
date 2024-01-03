@@ -36,7 +36,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "fundamentals",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704197617313</updated>
       <workItem from="1704197618446" duration="8729000" />
-      <workItem from="1704279831959" duration="791000" />
+      <workItem from="1704279831959" duration="1190000" />
     </task>
     <servers />
   </component>
