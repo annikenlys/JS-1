@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="" />
+    <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "fundamentals",
+    "git-widget-placeholder": "dom-manipulation",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -46,6 +49,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annik\repos\JS-1\dom-manipulation\js" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704197617313</updated>
       <workItem from="1704197618446" duration="8729000" />
-      <workItem from="1704279831959" duration="1190000" />
+      <workItem from="1704279831959" duration="11565000" />
     </task>
     <servers />
   </component>
