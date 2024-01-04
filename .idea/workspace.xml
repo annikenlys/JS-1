@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/day2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/task/day2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dom-manipulation",
+    "git-widget-placeholder": "making-decisions",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,6 +52,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annik\repos\JS-1\task\day3\js" />
+      <recent name="C:\Users\annik\repos\JS-1\task\day2" />
+      <recent name="C:\Users\annik\repos\JS-1\making-decisions\js" />
       <recent name="C:\Users\annik\repos\JS-1\dom-manipulation\js" />
     </key>
   </component>
@@ -64,6 +68,7 @@
       <updated>1704197617313</updated>
       <workItem from="1704197618446" duration="8729000" />
       <workItem from="1704279831959" duration="11565000" />
+      <workItem from="1704366464263" duration="5454000" />
     </task>
     <servers />
   </component>
