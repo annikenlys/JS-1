@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/loops/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "loops-and-dom-manipulation",
+    "git-widget-placeholder": "arrays-objects-functions",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +68,8 @@
       <workItem from="1704197618446" duration="8729000" />
       <workItem from="1704279831959" duration="11565000" />
       <workItem from="1704366464263" duration="6849000" />
-      <workItem from="1704452573931" duration="8531000" />
+      <workItem from="1704452573931" duration="8686000" />
+      <workItem from="1704798247892" duration="6948000" />
     </task>
     <servers />
   </component>
