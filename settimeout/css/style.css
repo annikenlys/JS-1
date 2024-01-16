@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.loader {
+    font-size: 3rem;
+    color: firebrick;
+    font-weight: bold;
+}
+
+.counter {
+    font-size: 8rem;
+    color: red;
+    margin: 0 auto;
+}
+
+.ad {
+    background-color: orange;
+    padding: 2rem;
+    color: white;
+    font-size: 2rem;
+    position: sticky;
+    top: 0;
+    display: none;
+}
