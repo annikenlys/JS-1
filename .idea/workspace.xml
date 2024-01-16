@@ -38,12 +38,13 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.favourites.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "Node.js.main.js.executor": "Run",
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "set-timeout-and-setinterval",
+    "git-widget-placeholder": "favourite-project",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,7 +84,7 @@
       <workItem from="1704885513431" duration="8351000" />
       <workItem from="1704970993834" duration="8335000" />
       <workItem from="1705058026000" duration="7060000" />
-      <workItem from="1705417330019" duration="11164000" />
+      <workItem from="1705417330019" duration="14482000" />
     </task>
     <servers />
   </component>
