@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "favourite-project",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,7 +82,7 @@
       <workItem from="1704885513431" duration="8351000" />
       <workItem from="1704970993834" duration="8335000" />
       <workItem from="1705058026000" duration="7060000" />
-      <workItem from="1705417330019" duration="14482000" />
+      <workItem from="1705417330019" duration="14725000" />
     </task>
     <servers />
   </component>
