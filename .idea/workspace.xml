@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/age-checking-function-example/assets/images/image-earth.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age-checking-function-example/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age-checking-function-example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age-checking-function-example/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age-checking-function-example/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attributes/assets/images/img-big.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attributes/assets/images/img-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attributes/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attributes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-attributes/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day2/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day3/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day3/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day4/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day4/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day4/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day4/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day7/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day7/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day7/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day7/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day7/js/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day7/js/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/day7/js/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/day7/js/utils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "on-change-event-catalog-list",
+    "git-widget-placeholder": "data-attributes",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,10 +72,11 @@
       <recent name="C:\Users\annik\repos\JS-1\task" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annik\repos\JS-1\age-checking-function-example\assets\images" />
+      <recent name="C:\Users\annik\repos\JS-1\data-attributes\assets\images" />
       <recent name="C:\Users\annik\repos\JS-1\task\day3\js" />
       <recent name="C:\Users\annik\repos\JS-1\task\day2" />
       <recent name="C:\Users\annik\repos\JS-1\making-decisions\js" />
-      <recent name="C:\Users\annik\repos\JS-1\dom-manipulation\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,7 +99,8 @@
       <workItem from="1705417330019" duration="14725000" />
       <workItem from="1705489201720" duration="3245000" />
       <workItem from="1705575821213" duration="5370000" />
-      <workItem from="1706007900660" duration="8387000" />
+      <workItem from="1706007900660" duration="8638000" />
+      <workItem from="1706181262364" duration="9490000" />
     </task>
     <servers />
   </component>
