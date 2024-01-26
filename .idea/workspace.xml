@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13d85201-d786-484b-b18d-c73fe0d99ac7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/age-checking-function-example/assets/images/image-earth.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/age-checking-function-example/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/age-checking-function-example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/age-checking-function-example/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/age-checking-function-example/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-attributes/assets/images/img-big.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-attributes/assets/images/img-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-attributes/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-attributes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-attributes/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +45,7 @@
     "Node.js.script.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "data-attributes",
+    "git-widget-placeholder": "playing-with-functions",
     "last_opened_file_path": "C:/Users/annik/repos/JS-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -100,7 +90,8 @@
       <workItem from="1705489201720" duration="3245000" />
       <workItem from="1705575821213" duration="5370000" />
       <workItem from="1706007900660" duration="8638000" />
-      <workItem from="1706181262364" duration="9490000" />
+      <workItem from="1706181262364" duration="9621000" />
+      <workItem from="1706266967482" duration="4235000" />
     </task>
     <servers />
   </component>
